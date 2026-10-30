@@ -110,9 +110,9 @@ gcc -shared -s -O2 -Wall -D_UNICODE -DUNICODE access_monitor_core.c -o access_mo
 
 
 # Sample Visualizations
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/19/01.png)
-![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/19/02.png)
-![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/19/03.png)
-![Visualization 4](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/19/04.png)
-![Visualization 5](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/19/05.png)
+![Visualization 1](./Images/01.png)
+![Visualization 2](./Images/02.png)
+![Visualization 3](./Images/03.png)
+![Visualization 4](./Images/04.png)
+![Visualization 5](./Images/05.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
